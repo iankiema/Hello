@@ -140,7 +140,7 @@ Run this  command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add Paragraph**
+- [ ] **Add Paragraphs**
 - [ ] **Add Header**
 - [ ] **Add Footer**
 
